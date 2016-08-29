@@ -1,0 +1,15 @@
+[submodule "pragmatickm-procedure-model"]
+	path = pragmatickm-procedure-model
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-model
+[submodule "pragmatickm-procedure-servlet"]
+	path = pragmatickm-procedure-servlet
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-servlet
+[submodule "pragmatickm-procedure-style"]
+	path = pragmatickm-procedure-style
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-style
+[submodule "pragmatickm-procedure-taglib"]
+	path = pragmatickm-procedure-taglib
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-taglib
+[submodule "pragmatickm-procedure-view"]
+	path = pragmatickm-procedure-view
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-view
