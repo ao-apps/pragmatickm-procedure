@@ -13,3 +13,6 @@
 [submodule "pragmatickm-procedure-view"]
 	path = pragmatickm-procedure-view
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-view
+[submodule "pragmatickm-procedure-all"]
+	path = pragmatickm-procedure-all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all

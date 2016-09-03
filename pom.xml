@@ -56,6 +56,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</repositories>
 
 	<modules>
+		<module>pragmatickm-procedure-all</module>
 		<module>pragmatickm-procedure-model</module>
 		<module>pragmatickm-procedure-servlet</module>
 		<module>pragmatickm-procedure-style</module>
