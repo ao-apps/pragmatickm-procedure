@@ -3,6 +3,7 @@ Parent POM for procedures nested within [SemanticCMS](https://semanticcms.com/) 
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/)
+* [Changelog](https://pragmatickm.com/procedure/changelog)
 * [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
 * [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure)
 
