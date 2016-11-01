@@ -16,3 +16,21 @@
 [submodule "pragmatickm-procedure-all"]
 	path = pragmatickm-procedure-all
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all
+[submodule "all"]
+	path = all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all
+[submodule "model"]
+	path = model
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-model
+[submodule "servlet"]
+	path = servlet
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-servlet
+[submodule "style"]
+	path = style
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-style
+[submodule "taglib"]
+	path = taglib
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-taglib
+[submodule "view"]
+	path = view
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-view
