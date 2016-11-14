@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Procedure](https://pragmatickm.com/procedure/)
-Parent POM for procedures nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
+Aggregator POM for procedures nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/)
