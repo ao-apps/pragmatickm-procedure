@@ -4,8 +4,8 @@ Aggregator POM for procedures nested within [SemanticCMS](https://semanticcms.co
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/)
 * [Changelog](https://pragmatickm.com/procedure/changelog)
-* [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
-* [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure)
+* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-procedure%22)
+* [GitHub](https://github.com/aoindustries/pragmatickm-procedure)
 
 ## Modules
 * [PragmaticKM Procedure All](https://pragmatickm.com/procedure/all/)
