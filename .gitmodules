@@ -1,36 +1,18 @@
-[submodule "pragmatickm-procedure-model"]
-	path = pragmatickm-procedure-model
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-model
-[submodule "pragmatickm-procedure-servlet"]
-	path = pragmatickm-procedure-servlet
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-servlet
-[submodule "pragmatickm-procedure-style"]
-	path = pragmatickm-procedure-style
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-style
-[submodule "pragmatickm-procedure-taglib"]
-	path = pragmatickm-procedure-taglib
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-taglib
-[submodule "pragmatickm-procedure-view"]
-	path = pragmatickm-procedure-view
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-view
-[submodule "pragmatickm-procedure-all"]
-	path = pragmatickm-procedure-all
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all
 [submodule "all"]
 	path = all
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all
+	url = git@github.com:aoindustries/pragmatickm-procedure-all.git
 [submodule "model"]
 	path = model
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-model
+	url = git@github.com:aoindustries/pragmatickm-procedure-model.git
 [submodule "servlet"]
 	path = servlet
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-servlet
+	url = git@github.com:aoindustries/pragmatickm-procedure-servlet.git
 [submodule "style"]
 	path = style
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-style
+	url = git@github.com:aoindustries/pragmatickm-procedure-style.git
 [submodule "taglib"]
 	path = taglib
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-taglib
+	url = git@github.com:aoindustries/pragmatickm-procedure-taglib.git
 [submodule "view"]
 	path = view
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-view
+	url = git@github.com:aoindustries/pragmatickm-procedure-view.git
