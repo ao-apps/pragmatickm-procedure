@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Procedure](https://pragmatickm.com/procedure/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm) / [Procedure](https://github.com/aoindustries/pragmatickm-procedure)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://pragmatickm.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-Aggregator POM for procedures nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
+Aggregator POM for procedures nested within [SemanticCMS](https://github.com/aoindustries/semanticcms) pages and elements.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/)
@@ -27,12 +27,12 @@ Aggregator POM for procedures nested within [SemanticCMS](https://semanticcms.co
 * [GitHub](https://github.com/aoindustries/pragmatickm-procedure)
 
 ## Modules
-* [PragmaticKM Procedure All](https://pragmatickm.com/procedure/all/)
-* [PragmaticKM Procedure Model](https://pragmatickm.com/procedure/model/)
-* [PragmaticKM Procedure Servlet](https://pragmatickm.com/procedure/servlet/)
-* [PragmaticKM Procedure Style](https://pragmatickm.com/procedure/style/)
-* [PragmaticKM Procedure Taglib](https://pragmatickm.com/procedure/taglib/)
-* [PragmaticKM Procedure View](https://pragmatickm.com/procedure/view/)
+* [PragmaticKM Procedure All](https://github.com/aoindustries/pragmatickm-procedure-all)
+* [PragmaticKM Procedure Model](https://github.com/aoindustries/pragmatickm-procedure-model)
+* [PragmaticKM Procedure Servlet](https://github.com/aoindustries/pragmatickm-procedure-servlet)
+* [PragmaticKM Procedure Style](https://github.com/aoindustries/pragmatickm-procedure-style)
+* [PragmaticKM Procedure Taglib](https://github.com/aoindustries/pragmatickm-procedure-taglib)
+* [PragmaticKM Procedure View](https://github.com/aoindustries/pragmatickm-procedure-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
