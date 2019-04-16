@@ -35,7 +35,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.groupId>com.pragmatickm</documented.groupId><documented.artifactId>pragmatickm-procedure</documented.artifactId>
-		<documented.name>PragmaticKM 1 Procedure</documented.name>
+		<documented.name>PragmaticKM Procedure</documented.name>
 		<documented.shortTitle>Procedure</documented.shortTitle>
 		<documented.url>https://pragmatickm.com/procedure/</documented.url>
 		<documented.description>Aggregator POM for procedures nested within SemanticCMS pages and elements.</documented.description>
