@@ -35,7 +35,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.groupId>com.pragmatickm</documented.groupId><documented.artifactId>pragmatickm-procedure</documented.artifactId>
-		<documented.name>PragmaticKM 2 Procedure</documented.name>
+		<documented.name>PragmaticKM Procedure²</documented.name>
 		<documented.shortTitle>Procedure</documented.shortTitle>
 		<documented.url>https://pragmatickm.com/procedure/</documented.url>
 		<documented.description>Aggregator POM for procedures nested within SemanticCMS pages and elements.</documented.description>
@@ -89,7 +89,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 			<groupId>com.aoindustries</groupId><artifactId>ao-badges</artifactId><version>2.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>com.aoindustries</groupId><artifactId>ao-taglib</artifactId><version>3.0.0-validation-SNAPSHOT</version>
+			<groupId>com.aoindustries</groupId><artifactId>ao-taglib</artifactId><version>3.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.semanticcms</groupId><artifactId>semanticcms-changelog-taglib</artifactId><version>2.0.0-SNAPSHOT</version>
