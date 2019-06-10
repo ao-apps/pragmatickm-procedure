@@ -27,6 +27,7 @@ Aggregator POM for procedures nested within [SemanticCMS](https://github.com/aoi
 * [GitHub](https://github.com/aoindustries/pragmatickm-procedure)
 
 ## Modules
+* [PragmaticKM Procedure BOM](https://github.com/aoindustries/pragmatickm-procedure-bom)
 * [PragmaticKM Procedure All](https://github.com/aoindustries/pragmatickm-procedure-all)
 * [PragmaticKM Procedure Model](https://github.com/aoindustries/pragmatickm-procedure-model)
 * [PragmaticKM Procedure Servlet](https://github.com/aoindustries/pragmatickm-procedure-servlet)
