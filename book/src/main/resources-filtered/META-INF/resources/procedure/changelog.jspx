@@ -36,7 +36,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T22:08:34-0500"
-		dateModified="2019-06-06T20:24:28-0500"
+		dateModified="2019-09-02T02:53:21-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-procedure:pom.version}" />
@@ -54,12 +54,22 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 			>
 				<ul>
 					<li>New module <core:link book="/procedure/renderer/html" page="/" />.</li>
-					<!-- TODO:
-					<li>TODO: New project <core:link book="/procedure/bom" page="/index.jspx" /> for managed dependencies.</li>
-					-->
 				</ul>
 			</changelog:release>
 		</c:if>
+
+		<changelog:release
+			projectName="@{documented.name}"
+			version="1.5.1"
+			datePublished="2019-06-24T01:03:55-0500"
+			groupId="@{documented.groupId}"
+			artifactId="@{documented.artifactId}"
+			scmUrl="@{documented.scm.url}"
+		>
+			<ul>
+				<li>New project <core:link book="/procedure/bom" page="/" /> for managed dependencies.</li>
+			</ul>
+		</changelog:release>
 
 		<changelog:release
 			projectName="@{documented.name}"
@@ -70,7 +80,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
-				<li>Updated version of <core:link book="/parent" page="/index.jspx" />.</li>
+				<li>Updated version of <core:link book="/parent" page="/" />.</li>
 			</ul>
 		</changelog:release>
 
