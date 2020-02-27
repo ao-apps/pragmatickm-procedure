@@ -37,7 +37,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T22:08:34-0500"
-		dateModified="2020-02-14T00:13:10-0600"
+		dateModified="2020-02-26T13:28:16-0600"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-procedure:pom.version}" />
@@ -57,6 +57,7 @@ along with pragmatickm-procedure.  If not, see <http://www.gnu.org/licenses />.
 					<li>Updated version of <core:link book="/procedure/bom" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/procedure/all" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/procedure/servlet" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/procedure/style" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/procedure/taglib" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/procedure/view" page="/index.jspx" />.</li>
 				</ul>
