@@ -1,21 +1,28 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/pragmatickm-procedure-all.git
+	branch = .
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/pragmatickm-procedure-model.git
+	branch = .
 [submodule "servlet"]
 	path = servlet
 	url = git@github.com:aoindustries/pragmatickm-procedure-servlet.git
+	branch = .
 [submodule "style"]
 	path = style
 	url = git@github.com:aoindustries/pragmatickm-procedure-style.git
+	branch = .
 [submodule "taglib"]
 	path = taglib
 	url = git@github.com:aoindustries/pragmatickm-procedure-taglib.git
+	branch = .
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/pragmatickm-procedure-view.git
+	branch = .
 [submodule "bom"]
 	path = bom
 	url = git@aoindustries.github.com:aoindustries/pragmatickm-procedure-bom.git
+	branch = .
