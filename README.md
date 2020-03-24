@@ -23,7 +23,7 @@ Aggregator POM for procedures nested within [SemanticCMS](https://github.com/aoi
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/)
 * [Changelog](https://pragmatickm.com/procedure/changelog)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-procedure%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.pragmatickm/pragmatickm-procedure)
 * [GitHub](https://github.com/aoindustries/pragmatickm-procedure)
 
 ## Modules
