@@ -29,7 +29,7 @@ along with pragmatickm-procedure.  If not, see <https://www.gnu.org/licenses/>.
     <relativePath>../parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure</artifactId><version>1.8.1-SNAPSHOT</version>
+  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure</artifactId><version>1.8.1</version>
   <packaging>pom</packaging>
 
   <properties>
@@ -71,7 +71,7 @@ along with pragmatickm-procedure.  If not, see <https://www.gnu.org/licenses/>.
     <connection>scm:git:git://github.com/ao-apps/pragmatickm-procedure.git</connection>
     <developerConnection>scm:git:git@github.com:ao-apps/pragmatickm-procedure.git</developerConnection>
     <url>https://github.com/ao-apps/pragmatickm-procedure</url>
-    <tag>HEAD</tag>
+    <tag>pragmatickm-procedure-1.8.1</tag>
   </scm>
 
   <issueManagement>
